@@ -36,10 +36,3 @@ The core objective of this milestone is to master backend application logic, str
 | **DELETE** | `/students/:id` | Remove a record completely | Safely purges record from memory |
 
 ---
-
-## 💻 Local Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
